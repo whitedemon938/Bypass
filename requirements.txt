@@ -1,0 +1,14 @@
+aiofiles
+aiohttp
+aioshutil
+bs4
+gunicorn
+flask
+motor
+pymongo
+python-dotenv
+git+https://github.com/vpcreatz/pyrofork-adv
+requests
+tgcrypto
+urllib3==1.26
+uvloop
