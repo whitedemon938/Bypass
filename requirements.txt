@@ -8,8 +8,8 @@ httpx
 gunicorn
 flask
 lxml
-motor==3.2 
-pymongo==3.12
+motor
+pymongo==4.8.0
 psutil
 python-dotenv
 pycryptodome
