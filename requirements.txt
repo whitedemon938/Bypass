@@ -13,7 +13,7 @@ pymongo==4.8.0
 psutil
 python-dotenv
 pycryptodome
-pyrofork
+pyrogram
 requests
 telegraph
 tgcrypto
