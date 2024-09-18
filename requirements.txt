@@ -8,9 +8,9 @@ httpx
 gunicorn
 flask
 lxml
-motor
+motor==3.2 
+pymongo==3.12
 psutil
-pymongo
 python-dotenv
 pycryptodome
 git+https://github.com/vpcreatz/pyrofork-adv
