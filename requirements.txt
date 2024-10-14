@@ -3,6 +3,7 @@ aiohttp
 aioshutil
 bs4
 capsolver
+cryptography
 curl_cffi
 httpx
 gunicorn
