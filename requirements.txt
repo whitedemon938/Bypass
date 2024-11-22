@@ -7,6 +7,7 @@ flask
 motor
 pymongo
 python-dotenv
+pytz
 git+https://github.com/vpcreatz/pyrofork-adv
 requests
 tgcrypto
