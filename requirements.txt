@@ -14,7 +14,7 @@ psutil
 python-dotenv
 pycryptodome
 pytz
-git+https://github.com/vpcreatz/pyrofork-adv
+pyrofork
 requests
 telegraph
 tgcrypto
