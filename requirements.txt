@@ -2,8 +2,6 @@ aiofiles
 aiohttp
 aioshutil
 bs4
-capsolver
-curl_cffi
 httpx
 gunicorn
 flask
@@ -20,4 +18,3 @@ telegraph
 tgcrypto
 urllib3==1.26
 uvloop
-zenrows
