@@ -1,0 +1,9 @@
+# EditorConfig is awesome: https://editorconfig.org
+
+# Top-most EditorConfig file
+root = true
+
+# Default settings for all files
+[*]
+indent_style = space      # Use "tab" here if you want tabs instead
+indent_size = 4           # Set this to 4 (or your preferred width)
