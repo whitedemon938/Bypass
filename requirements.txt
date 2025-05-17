@@ -5,8 +5,7 @@ bs4
 httpx
 gunicorn
 flask
-motor
-pymongo==4.8.0
+pymongo
 psutil
 python-dotenv
 pycryptodome
