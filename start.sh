@@ -1,1 +1,1 @@
-gunicorn -b :$PORT app:app & python3 update.py && python3 -m bot && python3 alive.py
+gunicorn -b :80 app:app & python3 update.py && python3 -m bot && python3 alive.py
