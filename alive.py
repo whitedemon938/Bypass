@@ -26,5 +26,4 @@ async def check_server():
                 logging.error(f"alive.py Exception: {e}")
             await asleep(600)
 
-if __name__ == "__main__":
-    run(check_server())
+run(check_server())
