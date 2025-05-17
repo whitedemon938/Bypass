@@ -2,8 +2,6 @@ aiofiles
 aiohttp
 aioshutil
 bs4
-cryptography
-curl_cffi
 httpx
 gunicorn
 flask
@@ -11,8 +9,9 @@ motor
 pymongo==4.8.0
 psutil
 python-dotenv
+pycryptodome
 pyrofork
+telegraph
 tgcrypto
-requests
 urllib3==1.26
 uvloop
