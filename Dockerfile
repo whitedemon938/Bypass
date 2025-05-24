@@ -1,17 +1,8 @@
-FROM python:3.13-slim
-
-RUN apt-get update && apt-get install -y \
-    gcc \
-    python3-dev \
-    && rm -rf /var/lib/apt/lists/*
+FROM python:3.10-slim
 
 WORKDIR /usr/src/app
 
 RUN chmod 777 /usr/src/app
-
-# Create and activate a virtual environment
-RUN python3 -m venv /usr/src/app/venv
-ENV PATH="/usr/src/app/venv/bin:$PATH"
 
 COPY . .
 
