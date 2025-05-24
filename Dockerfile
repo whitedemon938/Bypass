@@ -1,5 +1,7 @@
 FROM python:3.10-slim
 
+RUN apt-get install -y git
+
 WORKDIR /usr/src/app
 
 RUN chmod 777 /usr/src/app
